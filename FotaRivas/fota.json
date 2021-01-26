@@ -1,0 +1,7 @@
+{
+    "type": "CaeliA_esp32_co2",
+    "version": 3,
+    "host": "caelia.ddns.net",
+    "port": 80, 
+    "bin": "/fota/CaeliA_DeviceLP1.ino.esp32.bin"
+}
