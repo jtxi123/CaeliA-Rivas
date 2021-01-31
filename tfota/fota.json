@@ -1,6 +1,6 @@
 {
     "type":"CaeliA_esp32_co2",
-    "version":7,
+    "version":6,
     "host":"raw.githubusercontent.com",
     "port":443, 
     "bin":"/jtxi123/CaeliA-Rivas/main/tfota/CaeliA_DeviceLP03.ino.esp32.bin"
