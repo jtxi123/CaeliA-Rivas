@@ -2,6 +2,5 @@
     "type":"CaeliA_esp32_co2",
     "version":"33.0.1",
     "host":"raw.githubusercontent.com",
-    "port":443, 
-    "bin":"/jtxi123/CaeliA-Rivas/main/FotaRivas/CaeliA_DeviceLP08V13.ino.bin"
+    "url":"https://raw.githubusercontent.com/jtxi123/CaeliA-Rivas/main/FotaRivas/CaeliA_DeviceLP08V13.ino.bin"
 }
